@@ -4,11 +4,11 @@
 
   Si más adelante utilizas un dominio propio, indica aquí el usuario y el repo:
   owner: "TU_USUARIO",
-  repository: "pruebas",
+  repository: "WEBS-NFCS",
 */
 const SETTINGS = {
   owner: "anioljordan",
-  repository: "pruebas",
+  repository: "WEBS-NFCS",
   branch: "main",
   ignoredFolders: ["node_modules", "dist", "build", "vendor"]
 };
